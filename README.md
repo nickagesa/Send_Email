@@ -1,7 +1,7 @@
 # Send_Email
 A simple python script that sends emails and attachment
 
-<img src="https://github.com/user-attachments/assets/f4b3bb43-fdb2-463e-a88d-c5a89a2b2a20" width="300" height="220" />
+<img src="https://github.com/user-attachments/assets/f4b3bb43-fdb2-463e-a88d-c5a89a2b2a20" width="300" height="200" />
 
 *Ref 1: Email sent from python*
 
