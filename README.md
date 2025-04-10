@@ -1,8 +1,13 @@
 # Send_Email
 A simple python script that sends emails and attachment
 
-<img src="https://github.com/user-attachments/assets/f4b3bb43-fdb2-463e-a88d-c5a89a2b2a20" width="200" height="140" />
-<img src="https://github.com/user-attachments/assets/204ab7f6-62ca-489e-90ce-f8c3cc0c580e" width="230" height="170" />
+<img src="https://github.com/user-attachments/assets/f4b3bb43-fdb2-463e-a88d-c5a89a2b2a20" width="300" height="240" />
+
+*Ref 1: Email sent from python*
+
+<img src="https://github.com/user-attachments/assets/204ab7f6-62ca-489e-90ce-f8c3cc0c580e" width="330" height="270" />
+
+*Ref 2: Email with attachment sent from python*
 
 ## Installation
 
